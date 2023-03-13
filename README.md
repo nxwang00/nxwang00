@@ -65,15 +65,14 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <p><h3>Full Stack Developer</h3>Aug.2022 - Present in Guru.com</p>
   <div>Working as a freelancer. Being passionate about programming and very attentive to every detail. Loving to combine different technologies in one complex project.
     <ul>
-      <li>Health Care | Property/Real Estate</li>
-      <li>ERP/CRM | E-Commerce</li>
+      <li>TypeScript, Angular, Ionic</li>
+      <li>JavaScript, React, PHP, Laravel, MySQL</li>
     </ul>
     Representative projects:
     <ul>
-      <li>ERP(https://vs1cloud.com/)</li>
-      <li>WooCommerce(https://janandjul.com/)</li>
-      <li>Health Care Consultation mobile app(React Native)</li>
-      <li>Podcast audio playing app(React Native)</li>
+      <li>Empathicos Web & Mobile(Ionic) APP (https://app.andreaplesha.com/)</li>
+      <li>Health Care Consultation mobile app (Ionic)</li>
+      <li>Shankara Marketing platform (https://theshankaraexperience.com)</li>
     </ul>
   </div>
 </div>
@@ -82,13 +81,13 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <div>Worked as a Senior Frontend developer. Developed many professional websites and web applications, and deployed them to the hosting platforms such as Heroku, Netlify.
     <ul>
       <li>Responsive UI/UX design, Bootstrap, Tailwind CSS</li>
-      <li>React, Next, Redux, Zustand</li>
+      <li>Vue, Vuex, Zustand</li>
     </ul>
     Representative projects:
     <ul>
       <li>Task925- Task Management System(https://app-dev.task925.com/)</li>
       <li>AgriXChange - Ecommerce(https://agrixchange.com/)</li>
-      <li>BlueOcean - Shipping app(http://blueoceanblue.com/)</li>
+      <li>Podcast audio playing app (Ionic)</li>
     </ul>
   </div>
 </div>
